@@ -1,0 +1,13 @@
+.oauth2_form_cred{
+
+}
+.oauth2_form_cred input[type="text"]{
+	width: 700px;
+}
+.oauth2_form_cred input[type="submit"]{
+	margin-top: 10px;
+}
+.oauth2_form_cred label{	
+	font-size: 15px;
+    padding: 8px 3px;
+}
