@@ -36,7 +36,7 @@ get_header(); ?>
 					//    "content_type" => "page" ,
 					//    "content_id"   =>  1842
 					// );
-
+					//object sample
 					$params = array(
 					   "union_api_key" => "123456789",
 					   "content_type" => "events"
