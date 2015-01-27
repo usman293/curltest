@@ -30,6 +30,10 @@
  *
  * @since Twenty Fifteen 1.0
  */
+function uploading_updates_on_git(){
+	//me new on git
+}
+add_action('init', 'uploading_updates_on_git');
 if ( ! isset( $content_width ) ) {
 	$content_width = 660;
 }
