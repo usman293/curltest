@@ -32,6 +32,8 @@
  */
 function uploading_updates_on_git(){
 	//me new on git
+	//helloooooooooooooooo
+	//init.................
 }
 add_action('init', 'uploading_updates_on_git');
 if ( ! isset( $content_width ) ) {
