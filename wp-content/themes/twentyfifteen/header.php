@@ -21,7 +21,7 @@
 	<script>(function(){document.documentElement.className='js'})();</script>
 	<?php wp_head(); ?>
 </head>
-
+<?php //starting body ?>
 <body <?php body_class(); ?>>
 <div id="page" class="hfeed site">
 	<a class="skip-link screen-reader-text" href="#content"><?php _e( 'Skip to content', 'twentyfifteen' ); ?></a>
